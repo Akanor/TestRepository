@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "InsJY2SNaW2kQtpoiCIXuY3gcAEcw+u2j6Qle2D9Jf/m3BpaHKZ2QWg9ytjmg8152Tm9ZAPACIYO3VGsF3tpnQ==",
+  "dgSpecHash": "8qStNA9BVKOdYv2DouAlXg0K0/sM0u2RqoCD8NdMpd0o1KcVvpQbJPR8thiVxZnlAPRSA5KAMZPYvb/5wDSbKQ==",
   "success": true,
-  "projectFilePath": "E:\\MyProjects\\InAndOut\\InAndOut\\InAndOut.csproj",
+  "projectFilePath": "E:\\MyProjects\\InAndOutClone\\TestRepository\\InAndOut\\InAndOut.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vova\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Vova\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

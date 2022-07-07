@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\MyProjects\\InAndOut\\InAndOut\\InAndOut.csproj": {}
+    "E:\\MyProjects\\InAndOutClone\\TestRepository\\InAndOut\\InAndOut.csproj": {}
   },
   "projects": {
-    "E:\\MyProjects\\InAndOut\\InAndOut\\InAndOut.csproj": {
+    "E:\\MyProjects\\InAndOutClone\\TestRepository\\InAndOut\\InAndOut.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\MyProjects\\InAndOut\\InAndOut\\InAndOut.csproj",
+        "projectUniqueName": "E:\\MyProjects\\InAndOutClone\\TestRepository\\InAndOut\\InAndOut.csproj",
         "projectName": "InAndOut",
-        "projectPath": "E:\\MyProjects\\InAndOut\\InAndOut\\InAndOut.csproj",
+        "projectPath": "E:\\MyProjects\\InAndOutClone\\TestRepository\\InAndOut\\InAndOut.csproj",
         "packagesPath": "C:\\Users\\Vova\\.nuget\\packages\\",
-        "outputPath": "E:\\MyProjects\\InAndOut\\InAndOut\\obj\\",
+        "outputPath": "E:\\MyProjects\\InAndOutClone\\TestRepository\\InAndOut\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

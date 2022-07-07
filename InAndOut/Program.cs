@@ -21,6 +21,6 @@ namespace InAndOut
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
                     webBuilder.UseStartup<Startup>();
-                });
+                    webBuilder.Configure();                });
     }
 }

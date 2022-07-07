@@ -7,7 +7,6 @@ namespace InAndOut.Models
     {
         [Key]
         public int Id { get; set; }
-        [Required]
         public string Borrower { get; set; }
         public string Lender { get; set; }
         [DisplayName("Item name")]
